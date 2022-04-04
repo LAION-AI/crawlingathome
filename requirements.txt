@@ -9,3 +9,4 @@ shutil
 clip-anytorch
 typing
 tqdm
+webdataset
